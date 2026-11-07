@@ -1,0 +1,6 @@
+{
+  "name": "Student Resource Hub - System Architecture & Prototype",
+  "description": "Technical specification, system architecture, ERD explorer, API documentation, sprint checklist, and interactive working prototype for the university Student Resource Hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
